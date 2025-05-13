@@ -1,0 +1,1 @@
+Implementation of Neural Machine Translation models using LSTM, Attention-based LSTM, and Transformer architectures on the Multi30k dataset (German-English language pairs). Includes custom implementations of LSTMCell, Multi-head Attention, and more, achieving BLEU scores for comparison.
